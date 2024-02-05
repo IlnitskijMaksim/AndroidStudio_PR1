@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-### Написання коду програми
+### Як працює програма
 
 https://github.com/IlnitskijMaksim/AndroidStudio_PR1/assets/112692170/dd85139d-cece-481f-b734-eb4f53045dda
 
