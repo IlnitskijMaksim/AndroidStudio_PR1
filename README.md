@@ -59,6 +59,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+### Написання коду програми
+
+<p><img src="gif/pr1.gif" width="400px"></p>
 
 
 
