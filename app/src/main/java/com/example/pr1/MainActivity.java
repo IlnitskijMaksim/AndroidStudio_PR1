@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else {
                     simpleTextView.setText("\uD83D\uDE21\uD83D\uDE21\uD83D\uDE21\uD83D\uDE21\uD83D\uDE21\uD83D\uDE21\uD83D\uDE21");
+                    i = 0;
                 }
             }
         });
