@@ -61,7 +61,12 @@ public class MainActivity extends AppCompatActivity {
 
 ### Написання коду програми
 
-<p><img src="gif/pr1.gif" width="400px"></p>
+https://github.com/IlnitskijMaksim/AndroidStudio_PR1/assets/112692170/dd85139d-cece-481f-b734-eb4f53045dda
+
+
+
+
+
 
 
 
